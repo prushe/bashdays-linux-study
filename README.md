@@ -1,4 +1,4 @@
 # bashdays-linux-study
 Отчет по урокам bashdays
 
-# #s1e0 ✅
+# #s1e0 ☐
