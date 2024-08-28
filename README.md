@@ -1,4 +1,12 @@
 # bashdays-linux-study
-Отчет по урокам bashdays
+
+Статусы
+
+☐ - in progress
+
+☑ - done!
+
+---
 
 # #s1e0 ☑
+# #s1e1 ☐
