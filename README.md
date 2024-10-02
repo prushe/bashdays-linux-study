@@ -2,13 +2,15 @@
 
 Статусы
 
-☐ - on verification
+[_] - on verification
 
-☑ - done!
+[x] - done!
 
 ---
 
-# #s1e0 ☑
-# #s1e1 ☐
-# #s1e2 ☑
-# #s1e3 ☐
+## #s1e0 [x]
+## #s1e1 [X]
+## #s1e2 [x]
+## #s1e3 [X]
+## #s1e4 [_]
+
