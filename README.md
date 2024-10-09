@@ -2,15 +2,15 @@
 
 Статусы
 
-[_] - on verification
+* [ ] - not approved yet
 
-[x] - done!
+* [x] - approved!
 
 ---
 
-## #s1e0 [x]
-## #s1e1 [X]
-## #s1e2 [x]
-## #s1e3 [X]
-## #s1e4 [X]
-
+* [X] #s1e0 
+* [X] #s1e1 
+* [X] #s1e2 
+* [X] #s1e3 
+* [X] #s1e4 
+* [ ] #s1e5
