@@ -7,10 +7,9 @@
 
 ---
 
-* [X] [#s1e0](/#s1e0/README.md)
-* [X] [#s1e1](/#s1e1/README.md)
-* [X] [#s1e2](/#s1e2/README.md)
-* [X] [#s1e3](/#s1e3/README.md)
-* [X] [#s1e4](/#s1e4/README.md)
-* [X] [#s1e5](/#s1e5/README.md)
-* [ ] [#s1e6](/#s1e6/README.md)
+* [X] [#s1e0](https://github.com/prushe/bashdays-linux-study/tree/master/%23s1e0)
+* [X] [#s1e1](https://github.com/prushe/bashdays-linux-study/tree/master/%23s1e1)
+* [X] [#s1e2](https://github.com/prushe/bashdays-linux-study/tree/master/%23s1e2)
+* [X] [#s1e3](https://github.com/prushe/bashdays-linux-study/tree/master/%23s1e3)
+* [X] [#s1e4](https://github.com/prushe/bashdays-linux-study/tree/master/%23s1e4)
+* [ ] [#s1e5](https://github.com/prushe/bashdays-linux-study/tree/master/%23s1e5)
