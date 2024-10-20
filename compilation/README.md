@@ -56,4 +56,3 @@ lineinfile:
 `path` - путь до файла  
 `regexp` - ругулярка на поиск строки  
 `state` - ["Whether the line should be there or not."](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/lineinfile_module.html#parameter-state) должна ли быть строчка там. нет - "absent". дф - "present" ← (default)
-
