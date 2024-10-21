@@ -13,4 +13,4 @@
 * [X] [#s1e3](https://github.com/prushe/bashdays-linux-study/tree/master/%23s1e3)
 * [X] [#s1e4](https://github.com/prushe/bashdays-linux-study/tree/master/%23s1e4)
 * [X] [#s1e5](https://github.com/prushe/bashdays-linux-study/tree/master/%23s1e5)
-* [ ] [#s1e6](https://github.com/prushe/bashdays-linux-study/tree/master/%23s1e6)
+* [X] [#s1e6](https://github.com/prushe/bashdays-linux-study/tree/master/%23s1e6)
